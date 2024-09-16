@@ -56,8 +56,7 @@ python ANDROID_BATTERY_SAVING_SYSTEM.py
 
 ## Troubleshooting
 
-- **Images Not Loading**: Ensure the image files are correctly named and located in the same directory as the script.
-- **Errors Loading Images**: Make sure you are using the correct Pillow library version. If needed, replace `Image.ANTIALIAS` with `Image.LANCZOS` in the code.
+- **Images Not Loading**: Ensure the image files are correctly named and located in the same directory as the script
 
 ## 
 
